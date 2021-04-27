@@ -1,1 +1,1 @@
-![](mybio.png)
+![](bio.png)
